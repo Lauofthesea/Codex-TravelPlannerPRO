@@ -1,0 +1,108 @@
+{
+  "Bali, Indonesia": {
+    "1": {
+      "Travel": [
+        "Arrival at Ngurah Rai International Airport",
+        "Visit Uluwatu Temple for sunset",
+        "Watch Kecak Fire Dance performance"
+      ],
+      "Foodtrip": [
+        "Lunch at Warung Babi Guling Pak Malen",
+        "Sunset dinner at Rock Bar, Ayana Resort",
+        "Try local snacks at Jimbaran Night Market"
+      ],
+      "Hotels": [
+        "Check-in at The Udaya Resort & Spa",
+        "Welcome massage at hotel spa",
+        "Poolside relaxation"
+      ]
+    },
+    "2": {
+      "Travel": [
+        "Morning trek to Mount Batur",
+        "Visit Tegallalang Rice Terraces",
+        "Explore Monkey Forest in Ubud"
+      ],
+      "Foodtrip": [
+        "Breakfast at Seniman Coffee Studio",
+        "Lunch at Bebek Tepi Sawah",
+        "Dinner at Locavore (fine dining)"
+      ],
+      "Hotels": [
+        "Stay at Alila Ubud",
+        "Enjoy jungle-view infinity pool",
+        "Evening yoga session"
+      ]
+    },
+    "3": {
+      "Travel": [
+        "Head to Seminyak Beach",
+        "Visit Tanah Lot Temple",
+        "Explore boutique shops in Canggu"
+      ],
+      "Foodtrip": [
+        "Brunch at Sisterfields",
+        "Gelato stop at Gusto Gelato",
+        "Seafood dinner at La Lucciola"
+      ],
+      "Hotels": [
+        "Stay at Potato Head Suites",
+        "Sunset cocktails at hotel bar",
+        "Late checkout and airport transfer"
+      ]
+    }
+  },
+  "Brooklyn, New York": {
+    "1": {
+      "Travel": [
+        "Arrive at JFK International Airport",
+        "Walk through Times Square",
+        "Visit Top of the Rock Observation Deck"
+      ],
+      "Foodtrip": [
+        "Breakfast at Ess-a-Bagel",
+        "Lunch at Joe’s Pizza in Greenwich Village",
+        "Dinner at Carmine’s Italian Restaurant"
+      ],
+      "Hotels": [
+        "Check-in at The Standard, High Line",
+        "Enjoy rooftop views at Le Bain",
+        "Relax in the hotel lounge"
+      ]
+    },
+    "2": {
+      "Travel": [
+        "Explore Central Park by bike",
+        "Visit the Metropolitan Museum of Art",
+        "Walk the Brooklyn Bridge at sunset"
+      ],
+      "Foodtrip": [
+        "Brunch at Sarabeth’s near Central Park",
+        "Lunch at Smorgasburg food market in Brooklyn",
+        "Dinner at Katz’s Delicatessen"
+      ],
+      "Hotels": [
+        "Stay at The Ludlow Hotel",
+        "Evening drinks at Dirty French",
+        "Unwind with skyline views from your room"
+      ]
+    },
+    "3": {
+      "Travel": [
+        "Tour the Statue of Liberty and Ellis Island",
+        "Visit the 9/11 Memorial & Museum",
+        "Shop along Fifth Avenue"
+      ],
+      "Foodtrip": [
+        "Breakfast at Dominique Ansel Bakery",
+        "Lunch at Eataly Flatiron",
+        "Dinner at Nobu Downtown"
+      ],
+      "Hotels": [
+        "Stay at The Beekman, a Thompson Hotel",
+        "Enjoy a cocktail at The Bar Room",
+        "Late checkout and airport transfer"
+      ]
+    }
+  }
+}

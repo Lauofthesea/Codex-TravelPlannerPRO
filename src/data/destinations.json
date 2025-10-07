@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "Bali, Indonesia",
+    "region": "Asia",
+    "description": "A tropical paradise with beaches and temples.",
+    "image": "/bali.jpg"
+    
+  },
+  {
+    "id": "2",
+    "name": "Paris, France",
+    "region": "Europe",
+    "description": "The city of lights, romance, and art.",
+    "image": "/eiffel.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Palawan, Philippines",
+    "region": "Asia",
+    "description": "Dramatic limestone cliffs, turquoise lagoons, and pristine white-sand beaches.",
+    "image": "/elnido.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Kyoto, Japan",
+    "region": "Asia",
+    "description": "Historic temples and cherry blossoms.",
+    "image": "/kyotoj.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Brooklyn, New York",
+    "region": "North America",
+    "description": "Skyscrapers, Broadway, and Central Park.",
+    "image": "/newyork.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Rome, Italy",
+    "region": "Europe",
+    "description": "The place of the largest ancient amphitheatre ever built in the world.",
+    "image": "/thecolosseum.jpg"
+  }
+]
